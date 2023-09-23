@@ -1,6 +1,7 @@
 # ECommerce-Website
 ECommerce Website using Html, CSS &amp; JavaScript
-Welcome to the README for StyleHive - eCommerce-Website! This document provides an overview of the e-commerce website project. This static website is currently in development and is not yet live.
+Welcome to the README for StyleHive - eCommerce-Website! This document provides an overview of the e-commerce website project. 
+Note: This static website is currently in development and is not yet live.
 
 ### Home Page
 ![image](https://github.com/Trivarna13/ECommerce-Website/assets/104765948/b990ccf1-79e1-4fe8-b42f-ca4b1b0b909b)
